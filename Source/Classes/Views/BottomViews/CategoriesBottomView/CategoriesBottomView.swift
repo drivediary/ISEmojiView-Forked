@@ -3,7 +3,7 @@
 //  ISEmojiView
 //
 //  Created by Beniamin Sarkisyan on 01/08/2018.
-//
+//  Depreciated Fix Class -> AnyObject
 
 import Foundation
 
